@@ -6,7 +6,6 @@ def using_until
   
   puts "The current number is less than 20."
 	counter += 1
-end
 
 end
 
